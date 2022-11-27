@@ -1,0 +1,9 @@
+Node and npm  -  https://nodejs.org/en/download/
+VSCode or any other text editor
+Extensions
+    1 ES7+REACT/REDUX SNIPPETS - https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+    2 PATH INTELLISENSE - https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+
+
+Commmands 
+npx create-react-app todo-app --template redux
